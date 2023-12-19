@@ -1,0 +1,125 @@
+###Create a new Transfer:
+POST http://localhost:8080/api/v1/transfers
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "playerLogoUrl": "https://www.mancity.com/meta/media/pm3b0zop/joao-cancelo.png",
+  "playerFullName": "João Cancelo",
+  "transferFeeInMillions": -1,
+  "fromTeam": "Manchester City",
+  "fromTeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+  "toTeam": "FC Barcelona",
+  "toTeamLogoUrl": "https://i.ebayimg.com/images/g/9mkAAOSwA~5cfyA1/s-l1200.webp",
+  "numberOfLikes": 535035
+}
+###Create a new Transfer:
+POST http://localhost:8080/api/v1/transfers
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "playerLogoUrl": "https://s.hs-data.com/bilder/spieler/gross/179293.jpg",
+  "playerFullName": "Harry Kane",
+  "transferFeeInMillions": 100,
+  "fromTeam": "Tottenham Hotspur F.C.",
+  "fromTeamLogoUrl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png",
+  "toTeam": "FC Bayern Munich",
+  "toTeamLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+  "numberOfLikes": 535034
+}
+###Create a new Transfer:
+POST http://localhost:8080/api/v1/transfers
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "playerLogoUrl": "https://img.a.transfermarkt.technology/portrait/big/396638-1684793985.jpg?lm=1",
+  "playerFullName": "Manor Solomon",
+  "transferFeeInMillions": 0,
+  "fromTeam": "FC Shakhtar Donetsk",
+  "fromTeamLogoUrl": "https://logowik.com/content/uploads/images/fc-shakhtar-donetsk3810.jpg",
+  "toTeam": "Tottenham Hotspur F.C.",
+  "toTeamLogoUrl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png",
+  "numberOfLikes": 123123
+}
+###Create a new Transfer:
+POST http://localhost:8080/api/v1/transfers
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "playerLogoUrl": "http://t2.gstatic.com/images?q=tbn:ANd9GcT0bgPs5n3ySd4nX-rVUeQd3E0EPNQmfzwdCUhHFmJVsMmtt5Jqb33OQcf8cMrPaPLQx3W7",
+  "playerFullName": "Jude Bellingham",
+  "transferFeeInMillions": 103,
+  "fromTeam": "Dortmund",
+  "fromTeamLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/800px-Borussia_Dortmund_logo.svg.png",
+  "toTeam": "Real Madrid",
+  "toTeamLogoUrl": "https://www.toptacular.co.uk/wp-content/uploads/2019/08/Real-Madrid-Badge-200mm-Wafer.png",
+  "numberOfLikes": 654646
+}
+###Create a new Transfer:
+POST http://localhost:8080/api/v1/transfers
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "playerLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3R5BEI1LxSZqdzE5Y_xVK91sQ4NzRCgVNw&usqp=CAU",
+  "playerFullName": "Christiano Ronaldo",
+  "transferFeeInMillions": 0,
+  "fromTeam": "Manchester United F.C.",
+  "fromTeamLogoUrl": "https://i.pinimg.com/originals/b4/13/ce/b413cef3ee1c28826dfd36e28242fcb9.png",
+  "toTeam": "Al-Nassr FC",
+  "toTeamLogoUrl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/817.png&h=200&w=200",
+  "numberOfLikes": 523457
+}
+###Create a new Transfer:
+POST http://localhost:8080/api/v1/transfers
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "playerLogoUrl": "https://pbs.twimg.com/media/Fh7wQH9WIA091JM.jpg",
+  "playerFullName": "Lionel Messi",
+  "transferFeeInMillions": 0,
+  "fromTeam": "Paris Saint-Germain F.C.",
+  "fromTeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
+  "toTeam": "Inter Miami FC",
+  "toTeamLogoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/800px-Inter_Miami_CF_logo.svg.png",
+  "numberOfLikes": 645547
+}
+###Create a new Transfer:
+POST http://localhost:8080/api/v1/transfers
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "playerLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3R5BEI1LxSZqdzE5Y_xVK91sQ4NzRCgVNw&usqp=CAU",
+  "playerFullName": "Christiano Ronaldo",
+  "transferFeeInMillions": 0,
+  "fromTeam": "Manchester United F.C.",
+  "fromTeamLogoUrl": "https://i.pinimg.com/originals/b4/13/ce/b413cef3ee1c28826dfd36e28242fcb9.png",
+  "toTeam": "Al-Nassr FC",
+  "toTeamLogoUrl": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/817.png&h=200&w=200",
+  "numberOfLikes": 523457
+}
+###Create a new Transfer:
+POST http://localhost:8080/api/v1/transfers
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "playerLogoUrl": "https://mhaifafc.com//pics/2021-2022/%D7%A1%D7%92%D7%9C%20%D7%A9%D7%97%D7%A7%D7%A0%D7%99%D7%9D%20%D7%9C%D7%90%D7%AA%D7%A8/%D7%93%D7%95%D7%9C%D7%91-%D7%97%D7%96%D7%99%D7%96%D7%94-V1.png",
+  "playerFullName": "Dolev Haziza",
+  "transferFeeInMillions": 0,
+  "fromTeam": "Bnei Yehuda",
+  "fromTeamLogoUrl": "https://www.sportpalace.co.il/wp-content/uploads/2015/09/bnei-yehuda_ddn.jpg",
+  "toTeam": "Maccabi Haifa",
+  "toTeamLogoUrl": "https://seeklogo.com/images/M/Maccabi_Haifa-logo-614790945F-seeklogo.com.png",
+  "numberOfLikes": 4
+}
+
+
+### get all transfers:
+GET http://localhost:8080/api/v1/transfers
+Authorization: Basic oshani02 Tur-abh123

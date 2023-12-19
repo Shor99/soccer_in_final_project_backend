@@ -1,0 +1,62 @@
+### get all logos:
+GET http://localhost:8080/api/v1/users/profile_logos
+Authorization: Basic oshani02 Tur-abh123
+
+###create a new logo:
+POST http://localhost:8080/api/v1/users/profile_logos
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "profileLogoName": "bull",
+  "profileLogoUrl": "https://seeklogo.com/images/B/bull-logo-5AB51E9A36-seeklogo.com.png"
+}
+
+###create a new logo:
+POST http://localhost:8080/api/v1/users/profile_logos
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "profileLogoName": "wolf",
+  "profileLogoUrl": "https://seeklogo.com/images/W/Wolf_David-logo-F0BB640FC5-seeklogo.com.png"
+}
+###create a new logo:
+POST http://localhost:8080/api/v1/users/profile_logos
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "profileLogoName": "monkey",
+  "profileLogoUrl": "https://seeklogo.com/images/A/apestaartje-monkey-logo-8922C973CD-seeklogo.com.png"
+}
+
+###create a new logo:
+POST http://localhost:8080/api/v1/users/profile_logos
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "profileLogoName": "shark",
+  "profileLogoUrl": "https://seeklogo.com/images/S/shark-logo-1259C619C8-seeklogo.com.png?v=638150162780000000"
+}
+
+###create a new logo:
+POST http://localhost:8080/api/v1/users/profile_logos
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "profileLogoName": "Bear",
+  "profileLogoUrl": "https://seeklogo.com/images/B/bear-logo-972171D828-seeklogo.com.png"
+}
+
+###create a new logo:
+POST http://localhost:8080/api/v1/users/profile_logos
+Content-Type: application/json
+Authorization: Basic oshani02 Tur-abh123
+
+{
+  "profileLogoName": "tiger",
+  "profileLogoUrl": "https://seeklogo.com/images/T/tiger-logo-65FDBB8FE4-seeklogo.com.png"
+}
