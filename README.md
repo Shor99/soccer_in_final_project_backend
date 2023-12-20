@@ -1,18 +1,19 @@
 # about my project
 
-this project is website for users to go through the website and 
-watch all the transfers in world foorball.
+this project is website for users to go through and 
+watch all the transfers in world football.
 can search a player , a team or a range of transfer fee to see the transfers you want to see.
 you can like and comment on a transfer and also you can like a comment.
 
 # not register
 
-canot see anything exept signin and signup and about the site
+cannot see anything except signin and signup and about the site
 
 # regular user
 
 can search a player , a team or a range of transfer fee to see the transfers you want to see.
 you can like and comment on a transfer and also you can like a comment.
+also can change his logo.
 
 for the first user register in the register section on the website.
 
@@ -25,7 +26,9 @@ admin user can also delete comments.
 you can make a user admin by change in the table users-roles in the database in itelliJ
 but first you need to add a "ROLE_ADMIN" in the role database table in intelliJ.
 
-# navbar and footer
+i put in intellij in res folder in transfer.rest and logo.rest transfers you can create and logos.
+
+# navbar(side and up) and footer
 
 is showing the pages you can visit depends of what user you are.
 
