@@ -26,7 +26,7 @@ admin user can also delete comments.
 you can make a user admin by change in the table users-roles in the database in itelliJ
 but first you need to add a "ROLE_ADMIN" in the role database table in intelliJ.
 
-i put in intellij in res folder in transfer.rest and logo.rest transfers you can create and logos.
+i put in intellij in src->main->resources->res folder in transfer.rest and logo.rest transfers you can create and logos.
 
 # navbar(side and up) and footer
 
